@@ -1,7 +1,7 @@
-![Fiiel's SVG Mario Coding Banner](./assets/mario_coding2.gif)
+![Panma's SVG Mario Coding Banner](./assets/mario_coding2.gif)
 
 ## About Me
-  Hi, I’m @Fiiel <br>
+  Hi, I’m @Panma <br>
   I’m interested in .NET, C#, ASP.NET & JavaScript... <br>
   I want to learn and explore more about Unreal Engine modding <br>
 
