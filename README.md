@@ -3,7 +3,7 @@
 ## About Me
   Hi, I’m @Panma <br>
   I’m interested in .NET, C#, ASP.NET & JavaScript... <br>
-  I want to learn and explore more about Unreal Engine modding <br>
+  I want to learn and explore more about Unreal Engine modding as a hobby <br>
 
 ## Languages, Tools, & Libraries
 
