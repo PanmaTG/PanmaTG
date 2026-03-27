@@ -1,10 +1,23 @@
 ![Panma's SVG Mario Coding Banner](./assets/mario_coding2.gif)
-
+<!---
 ## About Me
   Hi, I’m @Panma <br>
   I’m interested in C#, ASP.NET & JavaScript... <br>
   I want to learn and explore more about Unreal Engine modding as a hobby <br>
+--->
+
+<h2> hi, i'm panma!
+<br><br>
   
+```javascript
+const panma = {
+  likes: ["to", "code"],
+  interests: ["c#", "asp.net core mvc", "javascript"],
+  hobbies: ["reading", "ue modding"],
+}
+```
+</h2>
+
 ## Languages, Tools, & Libraries
 
 | TECH                     |    NAME     |
@@ -15,6 +28,7 @@
 | **Tools**   | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#) ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#) [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)](#) ![Static Badge](https://img.shields.io/badge/vmware_workstation_pro-f38b00?style=for-the-badge&logo=vmware&logoSize=amd) ![Static Badge](https://img.shields.io/badge/ubuntu-1a1c1d?style=for-the-badge&logo=ubuntu) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)](#) ![Static Badge](https://img.shields.io/badge/TrueNAS_Core-1a1c1d?style=for-the-badge&logo=truenas&logoColor=0095D5) |
 | **Cloud**                   |   ![Static Badge](https://img.shields.io/badge/netlify-034745?style=for-the-badge&logo=netlify&logoColor=00C7B7) ![Static Badge](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel) |
 | **Design**                   |   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-001d37?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/adobe%20premiere%20pro-000056?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/figma-312b38?style=for-the-badge&logo=figma) |
+
 
 <!---
 | TECH                     |    NAME     |
